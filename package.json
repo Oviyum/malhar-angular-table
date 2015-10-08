@@ -1,6 +1,7 @@
 {
   "name": "malhar-angular-table",
   "version": "1.6.0",
+  "main": "dist/mlhr-table.js",
   "license": "Apache License, v2.0",
   "dependencies": {},
   "devDependencies": {
